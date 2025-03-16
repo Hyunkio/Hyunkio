@@ -1,5 +1,5 @@
 ## 👋 Introduction
-- 안녕하세요.
+- Finace / Data Analysis
 
 ## ✨ Experiences
 |활동|기간|비고|
