@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Introduction
+- 안녕하세요.
 
-<!--
-**Hyunkio/Hyunkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Experiences
+|활동|기간|비고|
+|---|---|---|
+|Sangmyung Univ. Software|2020.03 ~ |-|
+|9roomthon Univ 11th|2025.03 ~ |-|
+|BDA(Big Data Analysis) 10th|2025.03 ~ |-|
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stacks
+#### [ Language ]
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+#### [ Data Analytics ]
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=&logoColor=white"/>
+
+#### [ Machine Learning & AI ]
+ -
+#### [ Cloud & DevOps ]
+ -
+
+#### [ Development Tools ]
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
+
+---
+
+## 🌴 Currently Learning
+ -
+---
+
+## 🏆 Certificate
+ - 
+
+---
+
+## 💌 BLOG & E-mail & SNS 
+ -
+ 
