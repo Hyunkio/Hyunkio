@@ -5,7 +5,7 @@
 |활동|기간|비고|
 |---|---|---|
 |Sangmyung Univ. Software|2020.03 ~ |-|
-|9roomthon Univ 11th|2025.03 ~ |-|
+|9roomthon Univ 4th|2025.03 ~ |-|
 |BDA(Big Data Analysis) 10th|2025.03 ~ |-|
 
 ---
