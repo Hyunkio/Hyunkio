@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Certificate
- - Certified Investment Manager
+ - Certified Investment Manager (투자자산운용사)
 
 ---
 
