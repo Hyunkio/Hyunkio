@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Certificate
- - 
+ - Certified Investment Manager
 
 ---
 
