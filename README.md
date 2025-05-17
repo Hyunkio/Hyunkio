@@ -7,6 +7,7 @@
 |Sangmyung Univ. Software|2022.03 ~ |-|
 |9roomthon Univ 4th|2025.03 ~ |-|
 |BDA(Big Data Analysis) 10th|2025.03 ~ |-|
+|전국대학생투자동아리연합회(UIC)|2025.05 ~ |-|
 
 ---
 
