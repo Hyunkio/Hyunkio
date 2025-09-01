@@ -6,10 +6,10 @@
 |---|---|---|
 |Sangmyung Univ. Software|2022.03 ~ |-|
 |9roomthon Univ 4th|2025.03 ~ |-|
-|BDA(Big Data Analysis) 10th|2025.03 ~ |-|
+|BDA(Big Data Analysis) 10th|2025.03 ~ 2025.08|수료|
 |전국대학생투자동아리연합회(UIC)|2025.05 ~ |-|
-|LS * CME Group 세계 대학생 모의투자대회 국가대표 육성|2025.07 ~ |-|
-|LG Aimers 7th|2025.07 ~ |-|
+|LS * CME Group 세계 대학생 모의투자대회 국가대표 육성교육|2025.07 ~ 2025.08|수료|
+|LG Aimers 7th|2025.07 ~ 2025.08|수료|
 
 
 ---
